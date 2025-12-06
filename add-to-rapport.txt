@@ -1,9 +1,0 @@
-1- why did we chose the highest variance? 
-
-2- why calculate the distance?
-- - what does the density changes mean?? 
-
-
-3- why do we get the Best inter and intra distance using this method?
-
-4- how is the distances getting maximised/ minimised?? in the calculation
